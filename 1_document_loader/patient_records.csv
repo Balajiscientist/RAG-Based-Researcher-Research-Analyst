@@ -1,0 +1,51 @@
+patient_id,symptoms,diagnosis,treatment,doctor_notes
+PT-1000,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made.
+PT-1001,"Sharp back pain, numbness in legs",Herniated Disc,"Physical therapy, pain management",MRI suggested to confirm disc herniation.
+PT-1002,"Sharp back pain, numbness in legs",Herniated Disc,"Physical therapy, pain management",MRI suggested to confirm disc herniation.
+PT-1003,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation.
+PT-1004,"Persistent cough, weight loss, night sweats",Tuberculosis,Antibiotics for 6-9 months,Signs of TB; sputum test recommended.
+PT-1005,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet.
+PT-1006,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested.
+PT-1007,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made.
+PT-1008,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Early stages of rheumatoid arthritis detected.
+PT-1009,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet.
+PT-1010,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Insulin therapy, diet control",Blood sugar levels elevated; initiate monitoring.
+PT-1011,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation.
+PT-1012,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet.
+PT-1013,"Sharp back pain, numbness in legs",Herniated Disc,"Physical therapy, pain management",MRI suggested to confirm disc herniation.
+PT-1014,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet.
+PT-1015,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation.
+PT-1016,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made.
+PT-1017,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested.
+PT-1018,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Early stages of rheumatoid arthritis detected.
+PT-1019,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation.
+PT-1020,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made.
+PT-1021,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made.
+PT-1022,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Insulin therapy, diet control",Blood sugar levels elevated; initiate monitoring.
+PT-1023,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu.
+PT-1024,"Persistent cough, weight loss, night sweats",Tuberculosis,Antibiotics for 6-9 months,Signs of TB; sputum test recommended.
+PT-1025,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made.
+PT-1026,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Insulin therapy, diet control",Blood sugar levels elevated; initiate monitoring.
+PT-1027,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested.
+PT-1028,"Headache, sensitivity to light, nausea",Migraine,"Pain relievers, rest, anti-nausea medication","Chronic migraine, suggest lifestyle adjustment."
+PT-1029,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu.
+PT-1030,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made.
+PT-1031,"Headache, sensitivity to light, nausea",Migraine,"Pain relievers, rest, anti-nausea medication","Chronic migraine, suggest lifestyle adjustment."
+PT-1032,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu.
+PT-1033,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Early stages of rheumatoid arthritis detected.
+PT-1034,"Sharp back pain, numbness in legs",Herniated Disc,"Physical therapy, pain management",MRI suggested to confirm disc herniation.
+PT-1035,"Sharp back pain, numbness in legs",Herniated Disc,"Physical therapy, pain management",MRI suggested to confirm disc herniation.
+PT-1036,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu.
+PT-1037,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu.
+PT-1038,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu.
+PT-1039,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested.
+PT-1040,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu.
+PT-1041,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation.
+PT-1042,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet.
+PT-1043,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet.
+PT-1044,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested.
+PT-1045,"Headache, sensitivity to light, nausea",Migraine,"Pain relievers, rest, anti-nausea medication","Chronic migraine, suggest lifestyle adjustment."
+PT-1046,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation.
+PT-1047,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested.
+PT-1048,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Early stages of rheumatoid arthritis detected.
+PT-1049,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet.

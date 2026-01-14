@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Python runtime
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vector databases / Chroma persistence
+research_tool/resources/vectorstore/
+*.sqlite3
+*.db
+*.bin
+*.parquet
